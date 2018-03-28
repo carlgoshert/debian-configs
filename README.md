@@ -1,2 +1,2 @@
 # debian-configs
-Place to store Debian config files
+This is where I will store common configuration files for Debian-based distros.
